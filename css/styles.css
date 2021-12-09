@@ -1,0 +1,59 @@
+/* Color Pallete : https://colorhunt.co/palette/75cfb8bbdfc8f0e5d8ffc478 */
+
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+h1,h2,h3{
+    font-family: 'Cabin',sans-serif;
+}
+
+p{
+    font-family: 'Roboto',sans-serif;
+}
+
+.intro{
+    background-color: #75CFB8;
+    padding-top: 200px;
+    position: relative;
+    text-align: center;
+}
+
+.top-cld{
+    position: absolute;
+    top: 150px;
+    right: 300px;
+}
+
+.bottom-cld{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+/* .mountain{
+    display: inline-block;
+    position: relative;
+    top: 20px;
+} */
+
+.dp{
+    width: 300px;
+    height: 400px;
+}
+
+.coding-pic,.ai-pic{
+    width: 256px;
+    height: 256px;
+}
+
+.mid{
+
+}
+
+.bottom{
+
+}
+
