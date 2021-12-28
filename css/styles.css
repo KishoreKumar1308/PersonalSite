@@ -50,10 +50,15 @@ p{
 }
 
 .mid{
-
+    background-color: #BBDFC8;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .bottom{
-
+    background-color: #FFC478;
+    position: relative;
+    padding-top: 50px ;
+    padding-bottom: 20px;
 }
-
